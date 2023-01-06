@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
+    padding: 0px;
+}
+/* header styles */
+#head-i{
+    background: url('../images/banner/banner1.png');
+    height: 808px;
+    background-repeat: no-repeat;
+}
+.header{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+}
+.header .header-text{
+    text-align: center;
+      
+}
+.header-text{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    ;
+}
+.header-p{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+}
+
+/* buttons */
+.button-main{
+    color: #fff;
+    padding: 10px 25px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    font-weight: 700;
+    border: none;
+    
+}
+/* my failures */
+
+.middle{
+
+   
+}
+
+/* My Plans Section */
+.skills-container{
+    display: flex;
+    gap: 30px;
+}
+
+.middle{
+    display: flex;
+}
